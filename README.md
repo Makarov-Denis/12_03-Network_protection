@@ -120,6 +120,8 @@ Sucirata
 
 ![лог hydra suricata](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/02260493-cb69-4c9c-a3e7-0d08c4c0307c)
 
+Fail2ban
+
 ![лог hydra fail2ban](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/12084e92-42da-4fe2-b5ed-d73857c6fd3c)
 
 
