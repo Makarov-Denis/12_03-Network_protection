@@ -38,9 +38,41 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
-**Решение**
+### Ответ:
+Усатновленные программы представлены на скриншотах ниже:
+
+Suricata:
+
+![Suricata](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/b8ac7a46-396a-4bfa-8eaf-e83bfe584345)
+
+Fail2ban:
+
+![Fail2ban](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/e24f4a85-a68e-4c82-8b20-8b2f5d53491f)
+
+sudo nmap -sA 192.168.1.2
+
+![nmap -sA](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/3c90eea7-b9c2-4ec2-8f0a-8a4f45e1a655)
+
+![лог -sA](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/67af0de6-3fee-4d42-b144-d44ff13e4f30)
+
+sudo nmap -sT 192.168.1.2
+
+![nmap -sT](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/327611e3-9235-4bee-ab42-0c1e3580e582)
+
+![лог -sT](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/50e866c6-7d5f-45e9-a248-e553a46263b4)
+
+sudo nmap -sS 192.168.1.2
+
+![nmap -sS](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/b77c5688-e8b3-4be4-a08b-48a71a82f3ea)
+
+![лог -sS](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/42deec5b-97cd-4eb4-ad5c-bb134273c183)
+
+sudo nmap -sV 192.168.1.2
+
+![nmap -sV](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/14b6d769-0476-4ebb-b6a3-8aa9439d2e6b)
 
 
+![лог -sV](https://github.com/Makarov-Denis/12_03-Network_protection/assets/148921246/513a4e17-cf39-4625-8921-da68ddfed16b)
 
 ---
 
